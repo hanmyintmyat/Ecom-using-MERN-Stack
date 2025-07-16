@@ -3,23 +3,6 @@ Overview
 This is a frontend-focused e-commerce web application built using React and styled with Bootstrap. The project demonstrates a modern online shopping platform with features for browsing products, managing a shopping cart, and providing a seamless user experience. It leverages React for building a dynamic and responsive user interface, integrated with Bootstrap for rapid styling and modern tools for state management.
 Features
 
-User Features:
-
-Browse products by categories
-Search and filter products
-Add/remove products to/from the shopping cart
-View product details with images and descriptions
-Responsive design for mobile and desktop devices using Bootstrap
-
-
-Technical Features:
-
-Built with React for a component-based architecture
-State management using Redux Toolkit or React Context (depending on implementation)
-Styled with Bootstrap for a responsive and polished UI
-Integration with a mock API or backend (e.g., Fake Store API or custom backend)
-Client-side routing with React Router
-Optimized performance with lazy loading and code splitting (if applicable)
 
 
 
@@ -132,30 +115,3 @@ Vercel
 Netlify
 GitHub Pages
 
-
-If the application relies on a backend, ensure the backend API is deployed and the frontend is configured to use the correct API URL.
-
-
-Example deployment command for Vercel:
-vercel
-
-Contributing
-Contributions are welcome to improve the project! To contribute:
-
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature).
-Make your changes and commit (git commit -m "Add your feature").
-Push to the branch (git push origin feature/your-feature).
-Create a pull request.
-
-Please ensure your code adheres to the project's coding style and includes relevant tests (if applicable).
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-Acknowledgments
-
-Built with inspiration from modern e-commerce platforms.
-Thanks to the React and Bootstrap communities for providing robust tools and documentation.
-Special thanks to Fake Store API for providing mock data (if used).
-
-Contact
-For questions or feedback, reach out to the project maintainer:
