@@ -1,10 +1,4 @@
 React E-Commerce Application
-Overview
-This is a frontend-focused e-commerce web application built using React and styled with Bootstrap. The project demonstrates a modern online shopping platform with features for browsing products, managing a shopping cart, and providing a seamless user experience. It leverages React for building a dynamic and responsive user interface, integrated with Bootstrap for rapid styling and modern tools for state management.
-Features
-
-
-
 
 Tech Stack
 
